@@ -1,5 +1,21 @@
 # Get Github Resource Real URL
 
+**[RawGithubURL](https://pypi.org/project/RawGithubURL/)** 基于Python实现，用于获取GitHub资源文件的真实访问地址，同时支持自动转换Markdown文档中相对路径的资源引用，以便外网访问！
+
+
+### 一、安装方式
+```
+pip3 install RawGithubURL  
+```
+
+
+### 二、版本升级
+```
+pip3 install -U RawGithubURL
+```
+
+
+### 三、使用方式
 ```
 1、GitHub文件在线访问地址
 https://github.com/zhuifengshen/AppSetting/blob/master/settingview.PNG
